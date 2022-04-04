@@ -1,0 +1,8 @@
+git init = inicia um repositório local
+git clone = clona um repositório remoto
+git status = mostra se há alguma alteração no repositório
+git add [nome do arquivo] = adiciona somente o arquivo citado a área de staging 
+git add* =  adiciona todos os arquivos a área de staging 
+git commit --m "mensagem aqui" = adiciona pequena mensagem de descrição nas alterações feitas 
+git push = envia o conteúdo local para o repositório remoto
+git pull = puxa  conteúdo de repositórios remotos e faz a atualização do repositório local 
