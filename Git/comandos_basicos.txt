@@ -1,3 +1,5 @@
+Link para download: https://git-scm.com/
+
 git init = inicia um repositório local
 git clone = clona um repositório remoto
 git status = mostra se há alguma alteração no repositório
